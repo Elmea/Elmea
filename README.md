@@ -1,7 +1,7 @@
 ## Hi i'm Elmea 👋
 
 - 🌱 I’m currently learning game programming at Isart Digital Paris, currently in master's degree
-- 🔭 I have a lot of interest in Tech Art, and moreover rendering
+- 🔭 I have a lot of interest in Tech Art, and moreover rendering and shaders (Compute and visual)
 - 📃 You can check my portfolio and my resume here : https://elmea.github.io/
 
 <!--
