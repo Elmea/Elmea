@@ -1,9 +1,9 @@
 ## Hi i'm Elmea 👋
 
-- 🌱 I’m currently learning game programming at Isart Digital Paris, currently in master's degree.
-- 🔭 I have a lot of interest in Tech Art, and moreover rendering and shaders (Compute and visual).
-- 📃 You can check my portfolio and my resume here : https://elmea.github.io/
-- 📟 I also work a lot using perforce, so my contribution schedule can be light some times.
+- 💻 I’m a Game Developer specialized in graphics programming and tech art.
+- 🎨 I’m passionate about rendering, shaders (both compute and visual), and how technology can enhance artistic expression.
+- 🚀 Currently finishing my studies at Isart Digital Paris, with professional experience in game development and production environments.
+- 📂 You can explore my portfolio and resume here → elmea.github.io
   
 <!--
 **Elmea/Elmea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
