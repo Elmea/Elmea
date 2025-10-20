@@ -3,7 +3,7 @@
 - 💻 I’m a Game Developer specialized in graphics programming and tech art.
 - 🎨 I’m passionate about rendering, shaders (both compute and visual), and how technology can enhance artistic expression.
 - 🚀 Currently finishing my studies at Isart Digital Paris, with professional experience in game development and production environments.
-- 📂 You can explore my portfolio and resume here → elmea.github.io
+- 📂 You can explore my portfolio and resume here → [elmea.github.io](https://github.com/Elmea)
   
 <!--
 **Elmea/Elmea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
