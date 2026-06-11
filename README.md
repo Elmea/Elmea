@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi i'm Elmea 👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+## Hi i'm Elmea 👋&
 
 - 💻 I’m a Game Developer specialized in graphics programming and tech art.
 - 🎨 I’m passionate about rendering, shaders (both compute and visual), and how technology can enhance artistic expression.
