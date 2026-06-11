@@ -1,4 +1,4 @@
-## Hi i'm Elmea 👋&
+## Hi i'm Elmea 👋
 
 - 💻 I’m a Game Developer specialized in graphics programming and tech art.
 - 🎨 I’m passionate about rendering, shaders (both compute and visual), and how technology can enhance artistic expression.
